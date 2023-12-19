@@ -6,7 +6,7 @@ public class Library {
 
     private final List[] books = new ArrayList[5];
 
-    private final Semaphore semaphore = new Semaphore(2); // 스레드 2개까지 접근 가능하게 제한하겠다.
+    private final Semaphore semaphore = new Semaphore(3); // 스레드 3개까지 접근 가능하게 제한하겠다.
 
     public Library() {
         for (int i = 0; i < 5; i++) {
