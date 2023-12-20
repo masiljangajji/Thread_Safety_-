@@ -1,4 +1,4 @@
-# Thread Safety Library Exapmle
+# Thread Safety Library Example
 
 ---
 
