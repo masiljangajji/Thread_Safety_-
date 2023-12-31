@@ -1,5 +1,9 @@
 # Thread Safety Library Example
 
+https://masiljangajji-coding.tistory.com/38
+
+해당 글에 대한 예시를 다룹니다.
+
 ---
 
 ## 기능 및 요구사항
